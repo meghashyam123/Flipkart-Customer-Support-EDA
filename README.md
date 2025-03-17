@@ -38,6 +38,9 @@ Flipkart, one of India's leading e-commerce giants, receives thousands of custom
 📈 Insights Discovered
 
 🔹 Most Frequent Issues: Delivery delays, refund problems, payment failures
+
 🔹 Peak Support Hours: Higher volume during sales events and weekends
+
 🔹 Response Time Trends: Faster responses during off-peak hours ⏳
+
 🔹 Sentiment Analysis: Customers express high frustration in refund-related tickets
